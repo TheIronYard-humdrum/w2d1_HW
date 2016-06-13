@@ -15,13 +15,13 @@ sumOfSquares(12, 1, 15)
 
 var sumOfSquares = function(x, y, z) {
   if (x <= y && x <= z) {
-    return (y*y + z*z)
+    return (y*y + z*z);
   }
   else if (y <= x && y <= z) {
-    return (x*x + z*z)
+    return (x*x + z*z);
   }
   else {
-    return (x*x + y*y)
+    return (x*x + y*y);
   }
 }
 
