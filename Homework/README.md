@@ -6,6 +6,7 @@
 
 :sunglasses: JavaScript is way more fun than CSS and HTML!!! :suglasses:
 
+![Legless Cat](https://storage.googleapis.com/imgfave/image_cache/1409148482457201.jpg)
 
 [Normal Mode](https://github.com/jjrajani/w2d1_HW/blob/master/Homework/main.js)
 * Answer questions given by Brit in regards to scope, and showing knowledge of understanding by providing the output the computer would have given, given a specific function.
@@ -29,5 +30,3 @@
         }
     }
     ```
-    
-    ![Legless Cat](https://storage.googleapis.com/imgfave/image_cache/1409148482457201.jpg)
