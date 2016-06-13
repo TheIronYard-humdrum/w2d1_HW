@@ -1,8 +1,10 @@
-var countDown = function(n) {
-  while (n > -1) {
+var minus = function(n) {
+  if (n != 0) {
     console.log(n)
-    n -= 1
+    n = n-1
+    if (n != 0) {
+      minus(n)
+    }
   }
-}
-
-countDown(15)
+} 
+minus(10)
