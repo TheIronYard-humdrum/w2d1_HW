@@ -4,7 +4,7 @@
 * Functions: can be named or not.  Can have 0 to infinity arguments.
 * Scope: global variables are BAD in most cases.
 
-:sunglasses: JavaScript is way more fun than CSS and HTML!!! :sunglasses:
+:sunglasses: JavaScript is way more fun than CSS and HTML!!! :suglasses:
 
 
 [Normal Mode](https://github.com/jjrajani/w2d1_HW/blob/master/Homework/main.js)
@@ -18,8 +18,8 @@
 [Nightmare Mode](https://github.com/jjrajani/w2d1_HW/blob/master/Homework/nightmare.js)
 
   * Anything written in a loop can also be written recursuvely. 
-  *     Example:
-    ```javascript
+    * Example:
+    ``` javascript
     var do = function(n) {
         if (n != 0) {
             do some stuff
@@ -29,3 +29,5 @@
         }
     }
     ```
+    
+    ![Legless Cat](https://storage.googleapis.com/imgfave/image_cache/1409148482457201.jpg)
