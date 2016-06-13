@@ -4,7 +4,7 @@
 * Functions: can be named or not.  Can have 0 to infinity arguments.
 * Scope: global variables are BAD in most cases.
 
-:sunglasses: JavaScript is way more fun than CSS and HTML!! :suglasses:
+:sunglasses: JavaScript is way more fun than CSS and HTML!!! :sugnlasses:
 
 
 [Normal Mode](https://github.com/jjrajani/w2d1_HW/blob/master/Homework/main.js)
