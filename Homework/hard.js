@@ -27,7 +27,7 @@ var sumOfSquares = function(x, y, z) {
 
 sumOfSquares(12, 1, 15)
 
-// Solution for infinite number of given numbers
+// Solution for infinite number of given numbers is numbers are givin in array
 
 var sumOfSquares = function(numbers) {
   nums = numbers.sort(function(a, b){return a-b});
